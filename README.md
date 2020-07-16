@@ -1,1 +1,1 @@
-![My weird SVG readme thing](https://cratebots.herokuapp.com/readme)
+![My weird SVG readme thing](https://cratebots.herokuapp.com/readmesvg)
