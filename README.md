@@ -1,4 +1,5 @@
 I enjoy emojis far too much. Here's what I've been saying on Slack:
+<br/>
 <div style="display:flex">
   <img src="https://cratebots.herokuapp.com/last_reactions/0" width="128px" />
   <img src="https://cratebots.herokuapp.com/last_reactions/1" width="128px" />
@@ -9,6 +10,7 @@ I enjoy emojis far too much. Here's what I've been saying on Slack:
 </div>
 <hr/>
 And here's what my coworkers are saying about me:
+<br/>
 <div style="display:flex">
   <img src="https://cratebots.herokuapp.com/last_reactions_to_me/1" width="128px" />
   <img src="https://cratebots.herokuapp.com/last_reactions_to_me/1" width="128px" />
