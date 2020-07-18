@@ -12,10 +12,10 @@ I enjoy emojis far too much. Here's what I've been saying on Slack:
 And here's what my coworkers are saying about me:
 <br/>
 <div style="display:flex">
-  <img src="https://cratebots.herokuapp.com/xx/0 " width="128px" />
-  <img src="https://cratebots.herokuapp.com/xx/1 " width="128px" />
-  <img src="https://cratebots.herokuapp.com/xx/2 " width="128px" />
-  <img src="https://cratebots.herokuapp.com/xx/3 " width="128px" />
-  <img src="https://cratebots.herokuapp.com/xx/4 " width="128px" />
-  <img src="https://cratebots.herokuapp.com/xx/5 " width="128px" />
+  <img src="https://cratebots.herokuapp.com/xxx/0 " width="128px" />
+  <img src="https://cratebots.herokuapp.com/xxx/1 " width="128px" />
+  <img src="https://cratebots.herokuapp.com/xxx/2 " width="128px" />
+  <img src="https://cratebots.herokuapp.com/xxx/3 " width="128px" />
+  <img src="https://cratebots.herokuapp.com/xxx/4 " width="128px" />
+  <img src="https://cratebots.herokuapp.com/xxx/5 " width="128px" />
 </div>
