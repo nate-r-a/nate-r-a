@@ -1,4 +1,4 @@
-I enjoy emojis far too much. Here's what I've been saying on Slack:
+I enjoy custom Slack emojis far too much. Here's what I've been saying on Slack:
 <br/>
 <div style="display:flex">
   <img src="https://cratebots.herokuapp.com/x/0 " width="128px" />
