@@ -1,4 +1,4 @@
-I enjoy custom Slack emojis far too much. Here's what I've been saying on Slack:
+I enjoy custom Slack emojis far too much. Here's how I've been reacting on Slack:
 <br/>
 <div style="display:flex">
   <img src="https://cratebots.herokuapp.com/x/0 " width="128px" />
@@ -9,7 +9,7 @@ I enjoy custom Slack emojis far too much. Here's what I've been saying on Slack:
   <img src="https://cratebots.herokuapp.com/x/5 " width="128px" />
 </div>
 <hr/>
-And here's what my coworkers are saying about me:
+And here's how my coworkers have been reacting to me:
 <br/>
 <div style="display:flex">
   <img src="https://cratebots.herokuapp.com/xxx/0 " width="128px" />
